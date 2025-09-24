@@ -1,41 +1,43 @@
-# Hi there,
+# Welcome  
 
-I work where **business and technology** overlap: improving processes, automating tasks, and experimenting with tools that make systems run better.  
+I focus on **Go development**, **automation**, and **homelab projects**. Most of my work is about streamlining processes, automating tasks, and experimenting with tools to make systems more reliable.  
 
 ---
 
 ## What I’m Working On  
-- Side projects in **Go** (backend services & automation)  
-- **Homelab experiments** with containers, self-hosted apps, and reverse proxies  
-- Building **TUI dashboards** and small coding projects  
+- Backend services and automation in **Go**  
+- **Homelab projects** with containers, self-hosted apps, and reverse proxies  
+- Building **TUI dashboards** and small creative coding projects  
 
 ---
 
 ## Tech & Tools  
 - **Languages**: Go, Odin, Ruby, Python  
 - **Ops & Infra**: Podman, Caddy, Gitea  
-- **Other tools**: Neovim, Ghostty, Raylib (for simulations)  
+- **Other tools**: Neovim, Ghostty, Raylib  
 
 ---
 
 ## Interests  
-- Workflow automation and process optimization  
-- Containerization and self-hosted infrastructure  
-- Creative projects (text adventures, MUDs, simulations)  
-- Exploring where **business + tech + creativity** meet  
+- Workflow automation  
+- Containerization and self-hosting  
+- Creative projects: text adventures, MUDs, simulations  
+- Exploring where business, tech, and creativity overlap  
 
 ---
 
 ## Highlights  
-- Always tweaking my **Neovim/Ghostty setup**  
+- Always refining my **Neovim/Ghostty setup**  
 - Built a **black hole photon-bending simulation**  
-- Projects are half practical, half experimental  
+- Projects are part practical, part experimental  
 
 ---
 
-## Find Me  
-- [GitHub Projects](https://github.com/linuxunil)  
-- Open to collaboration through GitHub issues and discussions  
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linuxunil&show_icons=true&theme=default)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxunil&layout=compact)  
 
 ---
 
